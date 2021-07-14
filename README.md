@@ -1,6 +1,6 @@
 # motion_detection_opencv
 
-Here I've implemented a motion detector using OpenCv. We have took the concept of contour for detection motion.
+Here I've implemented a motion detector using OpenCv. We have took the concept of contour for motion detection.
 
 Steps performed:
 
